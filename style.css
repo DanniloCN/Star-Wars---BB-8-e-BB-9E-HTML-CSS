@@ -438,7 +438,7 @@ body {
     border-radius: 8px;
 }
 
-.chao > div.one .bump {
+.chao > div.one .colisao {
     left: 40px;
 }
 
@@ -457,7 +457,7 @@ body {
     left: 346px;
 }
 
-.chao > div.four .bump {
+.chao > div.four .colisao {
     left: 10px;
 }
 
@@ -472,7 +472,7 @@ body {
     top: 255px;
 }
 
-.chao > div.six .bump {
+.chao > div.six .colisao {
     left: 10px;
 }
 
@@ -482,7 +482,7 @@ body {
     top: 255px;
 }
 
-.chao > div.seven .bump {
+.chao > div.seven .colisao {
     left: 60px;
 }
 
@@ -492,11 +492,11 @@ body {
     top: 295px;
 }
 
-.chao > div.eight .bump {
+.chao > div.eight .colisao {
     left: 30px;
 }
 
-.chao > div .bump {
+.chao > div .colisao {
     height: 15px;
     width: 30px;
     position: absolute;
@@ -505,15 +505,15 @@ body {
     animation: move 0.5s linear infinite;
 }
 
-.chao > div .bump.move-1 {
+.chao > div .colisao.movimento-1 {
     animation: move 0.5s 350ms linear infinite;
 }
 
-.chao > div .bump.move-2 {
+.chao > div .colisao.movimento-2 {
     animation: move 0.5s 700ms linear infinite;
 }
 
-.chao > div .bump:after {
+.chao > div .colisao:after {
     content: '';
     display: block;
     height: 30px;
