@@ -227,7 +227,7 @@ body {
 }
 
 .cabeca-lado-1 {
-  width: 33px;
+  width: 36px;
   transform: rotate(41deg);
   transform-origin: bottom left;
   top: -20px;
@@ -809,18 +809,18 @@ body {
 }
 
 .efeito-velocidadebb9e > div.one {
-  top: -60px;
-  left: 53px;
+  top: -75px;
+  left: 64px;
 }
 
 .efeito-velocidadebb9e > div.two {
   top: -20px;
-  left: 107px;
+  left: 105px;
 }
 
 .efeito-velocidadebb9e > div.three {
   top: -10px;
-  left: 103px;
+  left: 94px;
   width: 30px;
 }
 
